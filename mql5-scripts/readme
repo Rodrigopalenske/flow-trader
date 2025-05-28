@@ -1,0 +1,2 @@
+This is a unusable project as it is, to did this work you need go into the MetaTrader Editor and copy the files in respective path, after compile and they go to appear in the MetaTrader
+Exemple: (Experts\FlowTrader\v1\file.mq5 -> MQL5Experts\FlowTrader\file.mq5)
