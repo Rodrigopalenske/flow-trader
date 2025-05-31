@@ -1,3 +1,4 @@
 next-app/.next/app-build-manifest.json
 /next-app
 /backend-java
+*.log
